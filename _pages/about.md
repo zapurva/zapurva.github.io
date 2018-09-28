@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Apurva Joshi's Homepage"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome. I am currently a PhD candidate at the IITB-Monash Research Academy working on "Cooperative control of Unmanned Aerial and Ground Vehicle (UAV/UGV) Groups". My advisors are [Prof. Debraj Chakraborty](https://www.ee.iitb.ac.in/wiki/faculty/dc), Indian Institute of Technology Bombay and [Dr. Hoam Chung](http://users.monash.edu.au/~hchung/), Monash University.
+Hello and welcome to my homepage. I am currently a PhD candidate at the IITB-Monash Research Academy working on "Cooperative control of Unmanned Aerial and Ground Vehicle (UAV/UGV) Groups". My advisors are [Prof. Debraj Chakraborty](https://www.ee.iitb.ac.in/wiki/faculty/dc), Indian Institute of Technology Bombay and [Dr. Hoam Chung](http://users.monash.edu.au/~hchung/), Monash University.
 
 Current Research
 ================
