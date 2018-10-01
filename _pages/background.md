@@ -5,9 +5,9 @@ permalink: /background/
 author_profile: true
 ---
 
-Education
+# Education
 =========
 
 
-Work Experience
+# Work Experience
 ===============
