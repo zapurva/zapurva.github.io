@@ -1,7 +1,7 @@
 ---
 title: "Min-max time consensus tracking on a multi-quadrotor testbed"
 excerpt: "In this project, an algorithm which solves the multi-agent consensus tracking problem for one leader
-and multiple followers is implemented on a testbed of four quadrotors in an indoor environment. <br/><img src='/images/indoor_consensus_tracking.jpg'>"
+and multiple followers is implemented on a testbed of four quadrotors in an indoor environment. <br/><img src='/images/indoor_consensus_tracking.JPG'>"
 collection: portfolio
 ---
 
