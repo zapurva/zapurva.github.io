@@ -9,8 +9,5 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Background"
-    url: /background/    
-    
   - title: "CV"
     url: /cv/
