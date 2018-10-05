@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Cooperative outdoor flight: Theory, System development and Integration"
+excerpt: "In this project we have developed and implemented a holistic system architecture capable of handling
+control and communication of a multi-agent system.<br/><img src='/images/outdoor_quadrotor_testbed.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We have implemented a decentralized consensus algorithm which drives robots (quadrotors in our case) from any initial condition in space to an autonomously decided common point. This is commonly known as the rendezvous problem. Each agent only uses information from its neighbours to take decisions and trajectory planning is done completely on-board.
+
+A novel synchronized, time-slotted and scalable communication protocol which avoids data packet collisions and ensures real-time connectivity between agents is proposed and implemented. This protocol can address changing communication graph topologies and temporary link breaks and additions.
