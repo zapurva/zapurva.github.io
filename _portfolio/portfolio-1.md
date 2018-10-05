@@ -1,7 +1,7 @@
 ---
 title: "Cooperative outdoor flight: Theory, System development and Integration"
 excerpt: "In this project we have developed and implemented a holistic system architecture capable of handling
-control and communication of a multi-agent system.<br/><img src='/images/outdoor_quadrotor_testbed.png'>"
+control and communication of a multi-agent system. <br/><img src='/images/outdoor_quadrotor_testbed.png'>"
 collection: portfolio
 ---
 
