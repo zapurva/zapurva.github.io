@@ -11,6 +11,6 @@ Journals
 
 Conferences
 ===========
-* Joshi, A., Limbu, N., Ahuja, I., Mulla, A.K., Chung, H. and Chakraborty, D., 2016, June. Implementation of distributed consensus on an outdoor testbed. In Control Conference (ECC), 2016 European (pp. 2146-2151). IEEE. [link](https://ieeexplore.ieee.org/abstract/document/7810609/)
-* Joshi, A., Chakraborty, D., 2017, July. Experimental verification of a dynamic model for lane-less (Indian) traffic. In IFAC World Congress, 2017. [link](https://www.sciencedirect.com/science/article/pii/S2405896317315525)
-* Joshi, A., Wala, A., Ludhiyani, M., Singh, S., Gagrani, M., Hazra, S., Chakraborty, D., Manjunath, D., Chung, H. 2016, June. Implementation of distributed consensus with guaranteed real-time communication on an outdoor quadrotor testbed. In Conference on Decision and Control (CDC), 2017. IEEE. [link](https://ieeexplore.ieee.org/abstract/document/8263964/)
+* Joshi, A., Limbu, N., Ahuja, I., Mulla, A.K., Chung, H. and Chakraborty, D., 2016, June. Implementation of distributed consensus on an outdoor testbed. In Control Conference (ECC), 2016 European (pp. 2146-2151). IEEE. ([link](https://ieeexplore.ieee.org/abstract/document/7810609/))
+* Joshi, A., Chakraborty, D., 2017, July. Experimental verification of a dynamic model for lane-less (Indian) traffic. In IFAC World Congress, 2017. ([link](https://www.sciencedirect.com/science/article/pii/S2405896317315525))
+* Joshi, A., Wala, A., Ludhiyani, M., Singh, S., Gagrani, M., Hazra, S., Chakraborty, D., Manjunath, D., Chung, H. 2016, June. Implementation of distributed consensus with guaranteed real-time communication on an outdoor quadrotor testbed. In Conference on Decision and Control (CDC), 2017. IEEE. ([link](https://ieeexplore.ieee.org/abstract/document/8263964/))
