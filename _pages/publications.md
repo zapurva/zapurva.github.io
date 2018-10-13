@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -7,7 +6,7 @@ author_profile: true
 
 Journals
 ========
-* Mulla, A.K., Joshi, A., Chavan, R., Chakraborty, D. and Manjunath, D., 2018. A Microscopic Model for Lane-Less Traffic. IEEE Transactions on Control of Network Systems, DOI: 10.1109/TCNS.2018.2834313 [link](https://ieeexplore.ieee.org/abstract/document/8355794)
+* Mulla, A.K., Joshi, A., Chavan, R., Chakraborty, D. and Manjunath, D., 2018. A Microscopic Model for Lane-Less Traffic. IEEE Transactions on Control of Network Systems, DOI: 10.1109/TCNS.2018.2834313 ([link](https://ieeexplore.ieee.org/abstract/document/8355794))
 * Joshi, A., Wala, A., Ludhiyani, M., Chakraborty, D., Manjunath, D., 2018. Outdoor cooperative flight using decentralized consensus algorithm and a guaranteed real-time communication protocol. Control Engineering Practice, (under review)
 
 Conferences
