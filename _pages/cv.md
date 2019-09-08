@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-A detailed CV can be downloaded [here](http://zapurva.github.io/files/Apurva_Joshi-Resume.pdf).
+For a detailed CV please e-mail me.
