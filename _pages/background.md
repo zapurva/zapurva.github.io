@@ -7,17 +7,19 @@ author_profile: true
 
 Education
 ======
-* PhD in Engineering, IITB-Monash Research Academy (early 2019, expected)
+* PhD in Engineering, IITB-Monash Research Academy (July 2019)
 * M.Tech. in Robotics, University of Petroleum and Energy Studies (2014)
 * B.E. in Electrical and Electronics Engineering (2010)
 
 Work experience
 ======
 * Research
+  * Research Scientist, NCETIS, IIT Bombay (Jan 2019 - July 2019)
   * IITB Research Internship, IIT Bombay (Dec 2013 - June 2014)
   * Summer Intern, Centre for Artificial Intelligence and Robotics (CAIR), DRDO (April - June 2013)
 
 * Industry
+  * Director - Research and Development, Dronitech, Mumbai (July - August 2019)
   * Engineer - Power Systems, Power Research and Development Consultants Pvt. Ltd., Bangalore (2010 - 2011)
 
 * Academia
